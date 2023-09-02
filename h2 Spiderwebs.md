@@ -1,3 +1,5 @@
+[toc]
+
 # Table of contents
 
 1. OWASP 10 2021 - Summaries
@@ -46,7 +48,7 @@
 - Example Attack Scenario
   - Component flaws can lead to severe impact due to shared privileges
 
-# A03:2021 – Injection
+## A03:2021 – Injection
 
 > https://owasp.org/Top10/A03_2021-Injection/
 
