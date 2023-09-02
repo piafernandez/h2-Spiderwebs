@@ -74,7 +74,8 @@
 
 2. Open you terminal
 
-   <img src="C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902132724723.png" alt="image-20230902132724723" style="zoom:67%;" />
+   <img width="335" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/73966a5a-e81f-453f-a88b-791dfb9e1b91">
+
 
 3. Install Java and other helpful tools:
 
@@ -105,7 +106,8 @@
    $ sudo ufw enable
    ```
 
-   ![image-20230902133547154](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902133547154.png)
+   <img width="314" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/cac24652-7166-4859-abcb-062fdc66e7a9">
+
 
 5. Download Webgoat 8
 
@@ -113,7 +115,8 @@
    $ wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar
    ```
 
-   <img src="C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902133950245.png" alt="image-20230902133950245" style="zoom:67%;" />
+   <img width="332" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/2f88e095-04a4-4bf1-9442-61ba9b5b00c4">
+
 
 6. Run Webgoat 8
 
@@ -121,17 +124,20 @@
    $ java -jar webgoat-server-8.0.0.M26.jar
    ```
 
-   ![image-20230902134203409](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902134203409.png)
+   <img width="410" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/0d94d7ef-5542-4106-8831-0dcc6d36fcb0">
+
 
 7.  Open Webgoat in browser with this url: http://localhost:8080/WebGoat/
 
 8. Register as a new user
 
-   ![image-20230902134527263](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902134527263.png)
+   <img width="373" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/2cdad89b-9c73-4db6-a7ab-a567572589b1">
+
 
 9. Now you can start hacking ! (safely)
 
-   ![image-20230902134755266](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902134755266.png)
+   <img width="424" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/8bf8a11d-bc3f-4076-b4c0-890e4d46eb0e">
+
 
 
 
@@ -141,7 +147,8 @@
 
 1. Click on General > Developer Tools to have the instructions
 
-![image-20230902134952006](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902134952006.png)
+<img width="434" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/60ad6802-b0a2-4db5-839b-223fff62c219">
+
 
 2. To open the developer tools you can do one of the choices below
 
@@ -156,13 +163,15 @@
 
 4. Elements tab: allows you to look at the HTML and CSS code
 
-   ![image-20230902143036158](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902143036158.png)
+   <img width="410" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/6ad6bc5c-d8de-452d-a560-82aca5ba8112">
+
 
 5. Console tab
 
    1. Clear the console: CTRL + L or click on the trash can
 
-      ![image-20230902143329209](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902143329209.png)
+      <img width="397" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/7297e3b2-db52-4fe4-8623-d92a0d82164f">
+
 
    2. You can write your own JavaScript
 
@@ -170,7 +179,8 @@
       >
       > This did not happen to (1+3) as the function returned 4
 
-      ![image-20230902143549899](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902143549899.png)
+     <img width="395" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/3d680f6a-9a32-46c7-aa92-49473a96d4c7">
+
 
 6. Sources tab: you can check out the file system and wiew all HTML, CSS and JavaScript files that are used to create the website.
 
@@ -178,17 +188,20 @@
    Click on Debugger > Sources
    ```
 
-   ![image-20230902144546221](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902144546221.png)
+   <img width="413" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/813ff4e8-3ec8-42a8-8c0c-3a53276e8a19">
+
 
 7. Network tab: you can view HTTP requests and responses the website has performed
 
-   ![image-20230902144832739](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902144832739.png)
+  <img width="415" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/5bfd3579-3be2-4668-91d3-a45597d73601">
+
 
 ## Let's try it !
 
 ### Console
 
-![image-20230902143827989](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902143827989.png)
+<img width="333" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/3d99afba-a400-4d4c-aa56-b4fb34c147f1">
+
 
 1. write this in your console
 
@@ -198,25 +211,29 @@
 
 2. copy and paste the most recent number in the field
 
-   ![image-20230902144115775](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902144115775.png)
+  <img width="415" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/2473b85c-53a7-4e47-9281-f70c8617d162">
+
 
 3. This means it worked !
 
-   ![image-20230902144152475](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902144152475.png)
+   <img width="134" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/744aded9-3444-4dcb-96ea-80696f7449d6">
+
 
 ### Network
 
-![image-20230902144900124](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902144900124.png)
+<img width="336" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/98675850-037e-43fb-96dd-52292875fd44">
+
 
 1. Click on the Go button above
 
 2. Then click on the highlighted parts and copy then paste the networkNum
 
-   ![image-20230902145307178](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902145307178.png)
+   <img width="422" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/cea251a0-e520-4076-894e-950a00f8b5fe">
+
 
 3. This means it worked
 
-   ![image-20230902145615177](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902145615177.png)
+   <img width="233" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/421c0447-e508-4f53-ab61-51abf1279335">
 
 # 4. Not outdated. Update all operating system and all applications in your Linux.
 
@@ -252,7 +269,8 @@
 
 > https://sqlzoo.net/wiki/SQL_Tutorial
 
-![image-20230902151928005](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902151928005.png)
+<img width="401" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/81ffeb79-4336-4b2b-bf60-3269d0b719ff">
+
 
 ## 0 SELECT basics
 
@@ -329,13 +347,14 @@
 
 1.  Open the lab
 
-   <img src="C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902155147985.png" alt="image-20230902155147985" style="zoom:67%;" />
+   <img width="416" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/bca73854-e8c4-4d7f-b10f-d73240b15c1a">
+
 
 2. Click on a category, here I have clicked on "Accessories"
 
    Here is the url: https://0a59008003193495d93876050029002e.web-security-academy.net/filter?category=Accessories
 
-   ![image-20230902154623467](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902154623467.png)
+  <img width="415" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/ab8c1066-6bf3-4723-bc77-2164edc91c30">
 
 3. Modify the `category` parameter in the url, giving it the value `'+OR+1=1--`
 
@@ -343,7 +362,8 @@
 
 4. Now you can see all the hidden products !
 
-<img src="C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902154756233.png" alt="image-20230902154756233" style="zoom:67%;" />
+<img width="447" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/b048ef09-b41b-4b99-869a-0c6315e4df14">
+
 
 # Sources and links
 
