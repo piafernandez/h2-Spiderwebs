@@ -159,7 +159,8 @@
 
 3. Click on the numbers to continue the task
 
-   ![image-20230902140159983](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h2\h2\image-20230902140159983.png)
+  <img width="174" alt="image" src="https://github.com/piafernandez/h2-Spiderwebs/assets/71267247/4684caf4-d353-40b8-b0b0-ef67ee52d538">
+
 
 4. Elements tab: allows you to look at the HTML and CSS code
 
