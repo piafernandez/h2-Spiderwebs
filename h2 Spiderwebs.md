@@ -1,5 +1,3 @@
-[toc]
-
 # Table of contents
 
 1. OWASP 10 2021 - Summaries
